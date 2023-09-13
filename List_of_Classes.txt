@@ -1,0 +1,52 @@
+CSCI 1053. Computer Concepts and Applications for Allied Health. 
+CSCI 1062. Medical Records.
+CSCI 1101. Introduction to Computing Laboratory.
+CSCI 1102. Introduction to Computing.
+CSCI 1153. Transition to Computer Science I.
+CSCI 2001. Information Technology Seminar. Departmental approval
+CSCI 2101. Computer Science I Lab.
+CSCI 2103. Computer Science I.
+CSCI 2111. Computer Science II Lab.
+CSCI 2113. Computer Science II. CSCI 2103
+CSCI 2123. Signals and Systems. ENGR 2033
+CSCI 2133. Game Development. CSCI 2103
+CSCI 2153. Transition to Computer Science II.
+CSCI 3023. Embedded System. CSCI 3203
+CSCI 3033. Digital Signal Processing. CSCI 2123 
+CSCI 3043. Game Studio Workshop. CSCI 2133
+CSCI 3053. Fundamentals of Game Programming I. CSCI 3103 and CSCI 2103
+CSCI 3063. High Level Language. CSCI 2113
+CSCI 3073. Fundamentals of Game Programming II. CSCI 3053
+CSCI 3103. Data Structures and Algorithms. CSCI 2113
+CSCI 3133. Advanced UNIX/LINUX. CSCI 2103 or equivalent 
+CSCI 3143. Network Security. CSCI 3213
+CSCI 3153. Mobile Application Development. CSCI 2113
+CSCI 3203. Assembler and Machine Organization. CSCI 2103 
+CSCI 3213. Computer Networking. CSCI 3103
+CSCI 3233. Theory of Computation. CSCI 2103 
+CSCI 3403. Artificial Intelligence. CSCI 2113
+CSCI 3503. Computational Methods for Industrial Technologists. IS 1003 or CSCI 1101/1102
+CSCI 3703. Computer Architecture. CSCI 3203
+CSCI 3713. Bioinformatics. CSCI 1101/1102
+CSCI 3901-3. Special Topics in Computer Science. Permission of instructor
+CSCI 3913. Virtual Reality Workshop. CSCI 2133
+CSCI 4123. Computer Aided Manufacturing.
+CSCI 4133. Operating Systems. CSCI 3103
+CSCI 4143. Programming Languages and Compilers. CSCI 3103 CSCI 3063 or CSCI 3153
+CSCI 4153. Software Engineering. CSCI 3103
+CSCI 4163. Computer Graphics. CSCI 3103
+CSCI 4173. Computerized Simulations. CSCI 3103
+CSCI 4183. VLSI System Design. ENGR 3103 and CSCI 4123
+CSCI 4193. Game Development Senior Project. Senior Standing and CSCI 3073
+CSCI 4203. Data Modeling and Application. CSCI 3103
+CSCI 4213. Privacy, Security, & Ethics. CSCI 3103
+CSCI 4223. Cyber Forensics. CSCI 3213
+CSCI 4333. Cyber Defense. CSCI 3213
+CSCI 4413. Web Programming. CSCI 2113
+CSCI 4641. Computer Science Internship. Departmental approval
+CSCI 4643. Computer Science Internship. Departmental approval
+CSCI 4903. Senior Integrated Project I. Senior standing
+CSCI 4913. Senior Integrated Project II. CRJU 4903 or CSCI 4903
+CSCI 4922. Senior Project I. Senior Standing
+CSCI 4923. Senior Project. Senior Standing
+CSCI 4932. Senior Project II. CSCI 4922

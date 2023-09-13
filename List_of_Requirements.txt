@@ -1,0 +1,21 @@
+CSCI 2101. Computer Science I Lab. 1
+CSCI 2103. Computer Science I. 3
+CSCI 2111. Computer Science II Lab. 1
+CSCI 2113. Computer Science II. 3
+CSCI 3063. High Level Language. 3
+CSCI 3103. Data Structures and Algorithms. 3
+CSCI 3143. Network Security. 3
+CSCI 3203. Assembler and Machine Organization. 3
+CSCI 3213. Computer Networking. 3
+CSCI 3233. Theory of Computation. 3
+CSCI 3703. Computer Architecture. 3
+CSCI 4133. Operating Systems. 3
+CSCI 4143. Programming Languages and Compilers. 3
+CSCI 4153. Software Engineering. 3
+CSCI 4203. Data Modeling and Application. 3
+CSCI 4923. Senior Project. 3
+CSCI 3000. Elective. 3
+CSCI 3000. Elective. 3
+CSCI 3000. Elective. 3
+CSCI 3000. Elective. 3
+CSCI 3000. Elective. 3
